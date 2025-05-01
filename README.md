@@ -1,2 +1,2 @@
-# parangon-d4
+parangon-d4
 Aide parangon diablo 4
